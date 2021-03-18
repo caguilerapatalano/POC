@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Auth0 WebAuth Demo - CORE3</string>
+
+    <string name="com_auth0_client_id">3wBefdNm5Ok2vXQxcr7QyzbuHD0qsUWY</string>
+    <string name="com_auth0_domain">caguilerapatalano.us.auth0.com</string>
+    <string name="com_auth0_scheme">demo</string>
+</resources>
